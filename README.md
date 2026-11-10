@@ -91,7 +91,7 @@ tests/
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/github-mcp-server.git
+git clone https://github.com/<dantecaceres92>/github-mcp-server.git
 cd github-mcp-server
 npm install
 npm run build        # compila TypeScript a la carpeta dist/
