@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github-mcp": {
+      "command": "node",
+      "args": ["dist/server.js"]
+    }
+  }
+}

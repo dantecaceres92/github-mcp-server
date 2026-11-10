@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "github-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/server.js"],
+      "envFile": "${workspaceFolder}/.env"
+    }
+  }
+}
